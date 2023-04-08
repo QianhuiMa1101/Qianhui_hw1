@@ -1,0 +1,37 @@
+exouser@merely-normal-walleye-14-of-24:~/Qianhui_hw1$ git log
+commit e8c27022b0045a57707af82b82914e8ee90c1147 (HEAD -> main, origin/main, origin/HEAD)
+Author: tspacel <thllu@ucdavis.edu>
+Date:   Sat Apr 8 14:39:34 2023 -0700
+
+    TLweekendplan added
+
+commit c662b7717c2b5d81d6c4826aff893f1a66e14898
+Author: Cameron Thornton <cnthornton@ucdavis.edu>
+Date:   Sat Apr 8 13:51:24 2023 -0700
+
+    Added Cameron_weekendplan.txt
+
+commit af35b1a5e3a770d0326d637b44f9d39b013daa07
+Author: QianhuiMa1101 <130103911+QianhuiMa1101@users.noreply.github.com>
+Date:   Fri Apr 7 17:27:51 2023 -0700
+
+    Delete weekendplan.txt
+
+commit decf5bb30282095ff22bd998794e339f2cfe54da
+Author: QianhuiMa1101 <qhma@ucdavis.edu>
+Date:   Fri Apr 7 17:27:16 2023 -0700
+
+    Added Qianhui_weekendplan.txt
+
+commit 9923ec51cbfcfcdb841e9f25815c548d2e8a2007
+Author: QianhuiMa1101 <qhma@ucdavis.edu>
+Date:   Fri Apr 7 16:26:00 2023 -0700
+
+    Added weekendplan.txt
+
+commit 10441f239bb72c5f90ea7c6030a60c9f52a343f3
+Author: QianhuiMa1101 <130103911+QianhuiMa1101@users.noreply.github.com>
+Date:   Fri Apr 7 16:08:57 2023 -0700
+:
+
+
